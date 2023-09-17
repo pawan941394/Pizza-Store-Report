@@ -172,7 +172,7 @@
 ![q17](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/4b07f7c3-cecf-43cd-b0ca-41ed09f57f86)
 
 
-<p align="left">Second I have analysis all results in Tableau --<br>Results of analysis are as follows.</p>
+<p align="left">Second I have analysis all results in Tableau --<br><br><br>Results of analysis are as follows.</p>
 
 ###
 
