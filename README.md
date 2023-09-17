@@ -176,7 +176,7 @@
 
 ###
 
-<p align="left">1.  % Sales for pizza size --</p>
+<p align="left">1.  % Sales for Pizza Size --</p>
 
 <p align="left">Results  --</p>
 
@@ -185,7 +185,7 @@
 
 ###
 
-<p align="left">2. % sales of pizzas.png --</p>
+<p align="left">2. % Sales Of Pizzas --</p>
 
 <p align="left">Results  --</p>
 
@@ -194,7 +194,7 @@
 
 ###
 
-<p align="left">3. bottom 5 pizza by revenue --</p>
+<p align="left">3. Bottom 5 Pizza by revenue --</p>
 
 <p align="left">Results  --</p>
 
@@ -202,7 +202,7 @@
 
 ###
 
-<p align="left">4. bottom 5 pizzas by category --</p>
+<p align="left">4. Bottom 5 pizzas by Category --</p>
 
 <p align="left">Results  --</p>
 
@@ -210,7 +210,7 @@
 
 ###
 
-<p align="left">5. bottom 5 pizzas by total pizza sold --</p>
+<p align="left">5. Bottom 5 Pizzas by total Pizza Sold --</p>
 
 <p align="left">Results  --</p>
 
@@ -222,7 +222,7 @@
 
 ###
 
-<p align="left">7.  Date Range --</p>
+<p align="left">6.  Date Range --</p>
 
 <p align="left">Results  --</p>
 
@@ -231,7 +231,7 @@
 
 ###
 
-<p align="left">8.  Hourly Trend For Pizza --</p>
+<p align="left">7.  Hourly Trend For Pizza --</p>
 
 <p align="left">Results  --</p>
 
@@ -239,7 +239,7 @@
 
 ###
 
-<p align="left">9.  KPI-Banner --</p>
+<p align="left">8.  KPI-Banner --</p>
 
 <p align="left">Results  --</p>
 
@@ -250,7 +250,7 @@
 
 ###
 
-<p align="left">11.  top 5  pizzas by quantity  --</p>
+<p align="left">9.  Top 5  Pizzas by Quantity  --</p>
 
 <p align="left">Results  --</p>
 
@@ -258,7 +258,7 @@
 
 ###
 
-<p align="left">12. Top 5 pizzas by revnue  --</p>
+<p align="left">10. Top 5 Pizzas by revnue  --</p>
 
 <p align="left">Results  --</p>
 
@@ -266,7 +266,7 @@
 
 ###
 
-<p align="left">13.  top 5 pizzas by total pizza sold --</p>
+<p align="left">11.  Top 5 Pizzas by total Pizza Sold --</p>
 
 <p align="left">Results  --</p>
 
@@ -274,7 +274,7 @@
 
 ###
 
-<p align="left">14.  total pizza and pizza sold by pizza category --</p>
+<p align="left">12.  Total Pizza And Pizza Sold By Pizza Category --</p>
 
 <p align="left">Results  --</p>
 
@@ -285,7 +285,7 @@
 
 ###
 
-<p align="left">16.  Weekly Trend for pizza --</p>
+<p align="left">13.  Weekly Trend For Pizza --</p>
 
 <p align="left">Results  --</p>
 
@@ -293,14 +293,14 @@
 
 
 
-<h3 align="left">Let's Create Dashbord now --</h2>
+<h3 align="left">Let's Create Dashbord Now --</h2>
 
 <p align="left">Dashbord 1  --</p>
 
 ![MainDashbord](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/41058d17-985a-4963-b95e-f7e7b2917244)
 
 
-<p align="left">Dashbord 2 -- After click on Best/Worst Sellers button  --</p>
+<p align="left">Dashbord 2 -- After Click On Best/Worst Sellers Button  --</p>
 
 ![dashbord 2](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/fbce0b69-0f00-4857-a89e-00eb5050b9b8)
 
