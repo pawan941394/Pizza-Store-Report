@@ -171,4 +171,138 @@
 
 ![q17](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/4b07f7c3-cecf-43cd-b0ca-41ed09f57f86)
 
+
+<p align="left">Second I have analysis all results in Tableau --<br>Results of analysis are as follows.</p>
+
+###
+
+<p align="left">1.  % Sales for pizza size --</p>
+
+<p align="left">Results  --</p>
+
+![% Sales for pizza size](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/85d6088e-ded3-4604-a611-2a81d08f1338)
+
+
+###
+
+<p align="left">2. % sales of pizzas.png --</p>
+
+<p align="left">Results  --</p>
+
+![% sales of pizzas](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/717deceb-9160-4d16-a2c1-6d4c9a248f8e)
+
+
+###
+
+<p align="left">3. bottom 5 pizza by revenue --</p>
+
+<p align="left">Results  --</p>
+
+![bottom 5 pizza by revenue](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/63e7e750-9880-4184-a2a3-70cda4e3d628)
+
+###
+
+<p align="left">4. bottom 5 pizzas by category --</p>
+
+<p align="left">Results  --</p>
+
+![bottom 5 pizzas by category](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/0eb13f64-6e3d-4372-8c8b-8837c3c32dc4)
+
+###
+
+<p align="left">5. bottom 5 pizzas by total pizza sold --</p>
+
+<p align="left">Results  --</p>
+
+![bottom 5 pizzas by total pizza sold](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/012c9349-ac1f-49fd-b828-7415b996332a)
+
+
+###
+
+
+###
+
+<p align="left">7.  Date Range --</p>
+
+<p align="left">Results  --</p>
+
+![Date Range](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/79b3cdaa-ab90-4baa-baee-98748828d68f)
+
+
+###
+
+<p align="left">8.  Hourly Trend For Pizza --</p>
+
+<p align="left">Results  --</p>
+
+![Hourly Trend For Pizza](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/b31da578-95e1-4be6-a8b9-e20c1f75317e)
+
+###
+
+<p align="left">9.  KPI-Banner --</p>
+
+<p align="left">Results  --</p>
+
+![KPI-Banner1 ](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/30a8b59b-3e5b-4565-8184-da970aa05f6b)
+
+###
+
+
+###
+
+<p align="left">11.  top 5  pizzas by quantity  --</p>
+
+<p align="left">Results  --</p>
+
+![top 5  pizzas by quantity](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/e9146094-eb8e-4341-9203-f79aa2ccc5fd)
+
+###
+
+<p align="left">12. Top 5 pizzas by revnue  --</p>
+
+<p align="left">Results  --</p>
+
+![Top 5 pizzas by revnue](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/780de256-34ef-4392-9e4e-2c3b50385f7a)
+
+###
+
+<p align="left">13.  top 5 pizzas by total pizza sold --</p>
+
+<p align="left">Results  --</p>
+
+![top 5 pizzas by total pizza sold](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/a0230195-db66-447e-b442-df3e4c6f0686)
+
+###
+
+<p align="left">14.  total pizza and pizza sold by pizza category --</p>
+
+<p align="left">Results  --</p>
+
+![total pizza and pizza sold by pizza category](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/1ced8421-61f2-4372-9e19-8b06d6ba8bd6)
+
+###
+
+
+###
+
+<p align="left">16.  Weekly Trend for pizza --</p>
+
+<p align="left">Results  --</p>
+
+![Weekly Trend for pizza](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/d329cfca-5003-4eec-aee0-34c4ade44a98)
+
+
+
+<h3 align="left">Let's Create Dashbord now --</h2>
+
+<p align="left">Dashbord 1  --</p>
+
+![MainDashbord](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/41058d17-985a-4963-b95e-f7e7b2917244)
+
+
+<p align="left">Dashbord 2 -- After click on Best/Worst Sellers button  --</p>
+
+![dashbord 2](https://github.com/pawan941394/Pizza-Store-Report/assets/63099276/fbce0b69-0f00-4857-a89e-00eb5050b9b8)
+
+
 ###
