@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">First I have analysis all results in SQL --<br>Results of analysis are as follows.</p>
+<p align="left">First I have analysis all results in SQL --<br><br>Results of analysis are as follows.</p>
 
 ###
 
